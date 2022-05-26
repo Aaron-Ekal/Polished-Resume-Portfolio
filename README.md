@@ -4,7 +4,7 @@
 
 #### By **Aaron Ekal**
 
-![Landing page screenshot](../Portfolio/staticfiles/images/The-Portfolio.png "The Portfolio Resume")
+![Landing page screenshot](/staticfiles/images/The-Portfolio.png "The Portfolio Resume")
 
 ## Known Bugs
 
