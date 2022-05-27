@@ -14,9 +14,9 @@ There are no known bugs currently but I look forward to improving the overall us
 
 This site was made entirely using:
 
+- Python|Django
 - HTML
 - CSS
-- Python|Django
 - Bootstrap
 
 ## Support and contact details
